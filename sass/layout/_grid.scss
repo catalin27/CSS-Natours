@@ -15,7 +15,7 @@
     }
   }
 
-  @include clearfix
+  @include clearfix;
 
   [class^="col-"] {
     float: left;
