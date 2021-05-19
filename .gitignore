@@ -1,3 +1,7 @@
+# Compiled styles
+css/style*.css
+css/style*.css.map
+
 # Logs
 logs
 *.log
